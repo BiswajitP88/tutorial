@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tutorial/static/css/main.b0a55d63.css",
+    "main.js": "/tutorial/static/js/main.c35fd072.js",
+    "static/media/biswajit-logo.svg": "/tutorial/static/media/biswajit-logo.85be51f1cf3a24a519ba8207ee2c6e1a.svg",
+    "index.html": "/tutorial/index.html",
+    "main.b0a55d63.css.map": "/tutorial/static/css/main.b0a55d63.css.map",
+    "main.c35fd072.js.map": "/tutorial/static/js/main.c35fd072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a55d63.css",
+    "static/js/main.c35fd072.js"
+  ]
+}
